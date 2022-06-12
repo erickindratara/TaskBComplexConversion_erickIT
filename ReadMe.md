@@ -1,6 +1,6 @@
 **A code Review**
 
-**Description :** a
+**Description :** a conversion from number to words in c#
 
 I created this project in order to answer my application test as a .Net programmer,
 
