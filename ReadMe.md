@@ -39,7 +39,7 @@ you should choose your OS and your type of processor (arm/x64/x86)
 
 **Credits:**
 
-thanks to Luminary : https://www.luminary.com/
+thanks to www.c-sharpcorner.com
 
 I got the code from them, and do some modification to meet my needs.
 
