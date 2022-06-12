@@ -1,0 +1,15 @@
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\bin\Debug\net6.0\TaskBComplexConversion_erickIT.exe
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\bin\Debug\net6.0\TaskBComplexConversion_erickIT.deps.json
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\bin\Debug\net6.0\TaskBComplexConversion_erickIT.runtimeconfig.json
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\bin\Debug\net6.0\TaskBComplexConversion_erickIT.dll
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\bin\Debug\net6.0\ref\TaskBComplexConversion_erickIT.dll
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\bin\Debug\net6.0\TaskBComplexConversion_erickIT.pdb
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\TaskBComplexConversion_erickIT.csproj.AssemblyReference.cache
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\TaskBComplexConversion_erickIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\TaskBComplexConversion_erickIT.AssemblyInfoInputs.cache
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\TaskBComplexConversion_erickIT.AssemblyInfo.cs
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\TaskBComplexConversion_erickIT.csproj.CoreCompileInputs.cache
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\TaskBComplexConversion_erickIT.dll
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\ref\TaskBComplexConversion_erickIT.dll
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\TaskBComplexConversion_erickIT.pdb
+C:\Users\cris\Desktop\world bank\cv\luminary\Task B\TaskBComplexConversion_erickIT\obj\Debug\net6.0\TaskBComplexConversion_erickIT.genruntimeconfig.cache
